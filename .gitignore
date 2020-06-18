@@ -1,4 +1,5 @@
 # Default ignored files
-#/workspace.xml
+workspace.xml
 .idea
-targer
+hometask3.iml
+pom.xml

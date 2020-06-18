@@ -1,0 +1,9 @@
+Main.class
+Data\Teacher$Journal.class
+Data\Teacher.class
+Data\User.class
+Security\Authorization.class
+Data\Student.class
+Service\TeacherService.class
+Data\Institution.class
+Service\StudentService.class

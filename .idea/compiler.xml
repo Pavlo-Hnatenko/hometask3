@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="user-data" />
-        <module name="user-security" />
+        <module name="user-authorization" />
       </profile>
     </annotationProcessing>
   </component>
